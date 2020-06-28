@@ -1,0 +1,11 @@
+{ "answers" : [
+    { "keyword": "who", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "how", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "when", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "why", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "what", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "I need ", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "I want ", "response": "I don't know, but I will have an answer by the end of the week" },
+    { "keyword": "I want ", "response": "I don't know, but I will have an answer by the end of the week" }
+  ]
+}
